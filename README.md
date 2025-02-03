@@ -27,7 +27,7 @@ to run the project. This will generate an image file in `media/images/main`
 
 Some recommended flags are:
 
-  - `-qk` for maximum wuality
+  - `-qk` for maximum quality
   - `-p` for quick preview once finished
 
 To see the full list of possible flags click
